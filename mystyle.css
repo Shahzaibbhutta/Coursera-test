@@ -1,0 +1,90 @@
+.container-fluid
+{  
+   height:5vh;
+   background-color:#1D9C73;
+}
+.icons
+{
+     margin-right: 10px;
+
+	
+}
+.col-md-9
+{
+    font-size:17px;
+	color: #fff;
+	text-align: center;
+}
+.col-md-7
+{
+
+	margin-top: 27px;
+}
+.col-md-7 .navbar-default
+{
+	background:none;
+	border: none; 
+}
+.col-md-7 .navbar-default .navbar-nav .active a,.col-md-7 .navbar-default .navbar-nav .active a:hover
+{
+	background: #1D9C73;
+    color:#fff;
+}
+.col-md-7 .navbar-default .navbar-nav li a:hover
+{
+    background: #1D9C73;
+    color:#fff;
+
+}
+.languages
+{
+	margin-top: 25px;
+}
+@media (max-width:1200px)
+{
+.col-md-7 .pull-right
+{
+	float: none ! important;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
